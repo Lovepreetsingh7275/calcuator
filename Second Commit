@@ -1,0 +1,32 @@
+🧮 Calculator (HTML & CSS)
+📘 Overview
+
+This project is a simple calculator user interface created using HTML and CSS.
+It represents the visual design of a calculator — including a display screen and buttons for digits and operators.
+Although it does not perform actual calculations, it demonstrates a clear understanding of web layout and styling concepts.
+
+🎯 Objective
+
+To design a responsive and visually appealing calculator layout.
+
+To understand the use of HTML for structure and CSS for styling.
+
+To create a realistic calculator UI without using JavaScript or backend logic.
+
+🧩 Features
+
+Clean and organized layout resembling a real calculator.
+
+Separate sections for display and buttons.
+
+Well-styled buttons for digits, operators, and control keys.
+
+Hover effects for better user interaction.
+
+Fully built using only HTML and CSS.
+
+🛠️ Technologies Used
+
+HTML5 – for creating the basic structure of the calculator.
+
+CSS3 – for styling, layout, colors, and button design.
